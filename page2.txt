@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EDU MATERIALS AND CONTENT</title>
+<meta charset="UTF-8">
+<meta name="description" content="Edu material has purpusly 
+developed to enhance learning. Besides, it simplifies 
+teacfers work by providing extended research to students.">
+<meta name="author" content="Kaggo Titus">
+</header>
+<body>
+<h1>COMPUTER SECURITY</h1>
+<P1>Welcome to <em>the new topic</em> of computer studies. were 
+you are to learn how be <strong>protected<strong> from computer
+ threats across the internet.</p1>
+<a href="http://www.google.com">Google</a>
+<img scr="testpic.png">
+ alt="This is a test image" height="42" 
+width="42">testpic</img>
+</body>
+</html>

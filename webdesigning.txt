@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EDU BASED MATERIALS AND CONTENT</title>
+<meta charset="UTF-8">
+<meta name="description" content="Edu material has purpusly 
+developed to enhance learning. Besides, it simplifies 
+teacfers work by providing extended research to students.">
+<meta name="author" content="Kaggo Titus">
+</header>
+<body>
+<h1>COMPUTER SECURITY</h1>
+<P1>Welcome to <em>the new topic</em> of computer studies. were 
+you are to learn how be <strong>protected<strong> from computer
+ threats across the internet.</p1>
+<h2>WHAT IS COMPUTER SECURITY?</h2>
+<p2>Computer security refers to the mechanism of protecting and 
+securing computers and their related data, networks,
+software, hardware from unauthorized access, misuse and theft.
+</p2>
+<h3>TYPES OF COMPUTER SECURITY</h3>
+<h4>Cyber Security.</h4>        
+<p3>This means securing 
+computers, electronic devices,
+networks, programs, systems
+from
+cyber attacks. Cyber attacks
+are those kind of attacks that
+happen when you are
+connected on the internet.</p3>
+<h5>Application security</h5>
+<p4> This means securing the
+applications and data so that
+they are hacked. By doing
+this, the database application
+remains safe and private to
+the owner and users of
+the systems.</p4>
+<h6>STRUCTURE OF A SECURITY POLICY</h6>
+<p5>Description of the Policy and what is the usage for?</p5>
+<p6>Where this policy should be applied?</p6>
+<p7>Procedures that are involved in this policy.</p7>
+<p8>Consequences if the policy is not compatible with company
+ standards.</p8>
+<p9>Functions and responsibilities of the employees that are
+ affected by this policy.</p9>
+</body>
+</html>
